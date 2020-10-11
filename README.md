@@ -5,6 +5,7 @@ LoopLAB is a landing page for a social media site. It's one of the projects of t
 ## 💻 Build with
 
 - HTML5
+- CSS3
 - Bootstrap 4
 
 [See on the browser](https://yousefelshabrawy.github.io/LoopLAB/)
